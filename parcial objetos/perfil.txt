@@ -1,0 +1,113 @@
+
+Nombre: gaus
+Apellido: jordan
+Género: Masculino
+Edad: 44
+Usuario: gaus
+Contraseña: 123
+Consumo: No consume
+Historia de Vida: nada por el momento
+
+
+Nombre: yina
+Apellido: sanchez
+Género: Femenino
+Edad: 38
+Usuario: yina
+Contraseña: 123
+Consumo: No consume
+Historia de Vida: por el momento nada
+
+
+Nombre: wiliam
+Apellido: anaya
+Género: Masculino
+Edad: 21
+Usuario: wil
+Contraseña: 123
+Consumo: No consume
+Historia de Vida: es una loca
+
+
+Nombre: william
+Apellido: sanchez
+Género: Masculino
+Edad: 15
+Usuario: wil
+Contraseña: 123
+Consumo: No consume
+Historia de Vida: nada que decir
+
+
+Nombre: cesar
+Apellido: alvarez
+Género: Masculino
+Edad: 17
+Consumo: No consume
+Historia de Vida: ninguna
+
+
+Nombre: jama
+Apellido: sanch
+Género: Masculino
+Edad: 15
+Consumo: No consume
+Historia de Vida: nada
+
+
+Nombre: jhan
+Apellido: crustan
+Género: Masculino
+Edad: 17
+Consumo: No consume
+Historia de Vida: nada
+
+
+Nombre: yina
+Apellido: rodriguez
+Género: Femenino
+Edad: 17
+Consumo: No consume
+Historia de Vida: nada
+
+
+Nombre: luisssss
+Apellido: sanc
+Género: Masculino
+Edad: 12
+Consumo: No consume
+Historia de Vida: nada
+
+
+Nombre: prueba1
+Apellido: 1
+Género: Otros
+Edad: 14
+Consumo: No consume
+Historia de Vida: nada
+
+
+Nombre: yermayo
+Apellido: yerma
+Género: Masculino
+Edad: 13
+Consumo: No consume
+Historia de Vida: nada
+
+
+Nombre: madre
+Apellido: hermosa
+Género: Femenino
+Edad: 26
+Consumo: No consume
+Historia de Vida: nada
+
+
+Nombre: lucho
+Apellido: alvarez
+Género: Masculino
+Edad: 64
+Consumo: No consume
+Historia de Vida: nada
+
+
